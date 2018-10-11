@@ -1,0 +1,22 @@
+
+#mainDiv h2 {
+	margin-top: 220px;
+	color:#3399ff;
+	margin-bottom: 50px;
+	font-weight: bold;
+	font-size: 35px;
+}
+
+
+
+#mainDiv #para {
+	font-size: 15px;
+	color: black;
+	font-weight: italic;
+	margin-bottom: 50px;
+}
+
+h6 {
+	text-align: center;
+	padding-top: 70px;
+}
